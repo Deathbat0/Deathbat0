@@ -27,8 +27,6 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-<br>
-
 
 - **Tools and DB**:
 
@@ -41,7 +39,6 @@
     ![PyCharm](https://img.shields.io/badge/PyCharm-%2321D77D?style=for-the-badge&logo=pycharm&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
 
 - **Learning**:
 
@@ -52,7 +49,6 @@
     ![AWS - ELB](https://img.shields.io/badge/AWS_ELB-%230E0C76?style=for-the-badge&logo=amazonaws&logoColor=white)
     ![AWS & Digital Ocean](https://img.shields.io/badge/AWS%20%26%20Digital%20Ocean-%23067BED%20?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-<br>
 
 - **Extras**:
 
