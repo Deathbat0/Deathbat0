@@ -12,7 +12,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -92,7 +91,6 @@
 
 <a href="https://github.com/Deathbat0/">
   <img src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deathbat0&theme=algolia&hide_border=false" width="375" alt="Deathbat0"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="375"  alt="Deathbat0"/>
 
 </a>
