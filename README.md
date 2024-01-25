@@ -1,19 +1,7 @@
 
-<h1 align="center"><b>Hi , I'm Daniel Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.gifer.com/3rNn.gif"></a>
-</p>
+<h1 align="center"><b>Hi , I'm Daniel Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<br>
-
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-<br>
 
 - A passionate Self-taught Software developer
 - I'm an Electronic Enginner
@@ -21,12 +9,10 @@
 - Lover of astronomy and physics
 - I’m currently open for an Intern or a new job opportunity, this is [my contact](https://www.linkedin.com/in/daniel-torres1309/)
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 <p align="center">
 
@@ -72,16 +58,7 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
-
-<br>
-<br>
-
------
-
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -90,20 +67,18 @@
 <div align="center">
 
 <a href="https://github.com/Deathbat0/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="375"  alt="Deathbat0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="375"  alt="Deathbat0"/>
 
 </a>
 </div>
 
 <br>
-<br>
-<br>
+
 
 -----
 
-<br>
-<br>
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -116,17 +91,11 @@
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
 <li>
 <a href="https://twitter.com/DanielTo99" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
 <li>
 <a href="mailto:danielalejo99@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -136,25 +105,12 @@
 </ul>
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b>THANKS FOR STOPPING BY MY GITHUB   ✨</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
 
 Last Edited on: 25/01/2024
