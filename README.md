@@ -49,11 +49,7 @@
     ![AWS - ELB](https://img.shields.io/badge/AWS_ELB-%230E0C76?style=for-the-badge&logo=amazonaws&logoColor=white)
     ![AWS & Digital Ocean](https://img.shields.io/badge/AWS%20%26%20Digital%20Ocean-%23067BED%20?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+  
 </p>
 
 
