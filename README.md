@@ -60,6 +60,7 @@
 
 <a href="https://github.com/Deathbat0/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deathbat0&theme=algolia&hide_border=false" width="375"  alt="Deathbat0"/><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="375"  alt="Deathbat0"/>
 
 </a>
@@ -79,10 +80,10 @@
 <ul>
 
 <li>
-<a style="margin-right:65px;" href="https://www.linkedin.com/in/daniel-torres1309/" target="_blank">
+<a style="margin-right:10%;" href="https://www.linkedin.com/in/daniel-torres1309/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-<a style="margin-right:65px;" href="https://twitter.com/DanielTo99" target="_blank">
+<a style="margin-right:10%;" href="https://twitter.com/DanielTo99" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 <a href="mailto:danielalejo99@gmail.com" target="_blank">
