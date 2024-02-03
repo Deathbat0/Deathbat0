@@ -59,8 +59,9 @@
 
 <a href="https://github.com/Deathbat0/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deathbat0&theme=algolia&hide_border=false" width="300"  alt="Deathbat0"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="300" heigth="150"  alt="Deathbat0"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deathbat0&theme=algolia&hide_border=false" width="320"  alt="Deathbat0"/>
+  
 
 </a>
 </div>
@@ -70,7 +71,7 @@
 ## <img src="https://assets-v2.lottiefiles.com/a/f19bff2c-1163-11ee-b8b3-4bb083750cdc/mOPks4oKcg.gif" width="35"><b> Github Trophies </b>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathbat0" alt="deathbat0" /></a> </p><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathbat0&theme=algolia" alt="deathbat0" /></a> </p><br>
 
 -----
 
