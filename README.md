@@ -58,9 +58,9 @@
 <div align="center">
 
 <a href="https://github.com/Deathbat0/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deathbat0&theme=algolia&hide_border=false" width="375"  alt="Deathbat0"/><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="375"  alt="Deathbat0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deathbat0&theme=algolia&hide_border=false" width="300"  alt="Deathbat0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathbat0&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="300" heigth="150"  alt="Deathbat0"/>
 
 </a>
 </div>
