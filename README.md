@@ -71,7 +71,7 @@
 ## <img src="https://assets-v2.lottiefiles.com/a/f19bff2c-1163-11ee-b8b3-4bb083750cdc/mOPks4oKcg.gif" width="35"><b> Github Trophies </b>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathbat0&theme=algolia" alt="deathbat0" /></a> </p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathbat0&theme=algolia&column=4&margin-w=20&margin-h=20" alt="deathbat0" /></a> </p><br>
 
 -----
 
@@ -84,10 +84,10 @@
 <ul>
 
 <li>
-<a style="margin-right:10%;" href="https://www.linkedin.com/in/daniel-torres1309/" target="_blank">
+<a style="margin-right:45px;" href="https://www.linkedin.com/in/daniel-torres1309/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-<a style="margin-right:10%;" href="https://twitter.com/DanielTo99" target="_blank">
+<a style="margin-right:45px;" href="https://twitter.com/DanielTo99" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 <a href="mailto:danielalejo99@gmail.com" target="_blank">
