@@ -45,6 +45,7 @@
     ![Spring](https://img.shields.io/badge/Spring-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin-%239F0ECD?style=for-the-badge&logo=kotlin&logoColor=white)
     ![XML](https://img.shields.io/badge/XML-%23F18315?style=for-the-badge&logo=xaml&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-%20black?style=for-the-badge&logo=androidstudio)
     ![Firebase](https://img.shields.io/badge/Firebase-%23E7B30E%20?style=for-the-badge&logo=firebase&logoColor=white)
     ![AWS - ELB](https://img.shields.io/badge/AWS_ELB-%230E0C76?style=for-the-badge&logo=amazonaws&logoColor=white)
     ![AWS & Digital Ocean](https://img.shields.io/badge/AWS%20%26%20Digital%20Ocean-%23067BED%20?style=for-the-badge&logo=digitalocean&logoColor=white)
