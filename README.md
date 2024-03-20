@@ -47,6 +47,7 @@
     ![XML](https://img.shields.io/badge/XML-%23F18315?style=for-the-badge&logo=xaml&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-%20black?style=for-the-badge&logo=androidstudio)
     ![Firebase](https://img.shields.io/badge/Firebase-%23E7B30E%20?style=for-the-badge&logo=firebase&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS%20-%20%2306B1ED%20?style=for-the-badge&logo=amazonaws)
  
 
   
@@ -104,4 +105,4 @@
 
 </div>
 
-Last Edited on: 05/03/2024
+Last Edited on: 22/03/2024
